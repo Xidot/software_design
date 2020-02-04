@@ -4,6 +4,7 @@
 - Sofia Konovalova
 - Claudia Grigoras
 - Wilkens de Boer
+- Koen Nikolas William van ...
 
 # CMD compiler
 
