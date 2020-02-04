@@ -42,8 +42,8 @@
 
 # Features
 
-- What Features do we want?
+- What Features do we want? [8,...]
 
 # Qualities
 
-- What Qualities doe we want?
+- What Qualities doe we want? (5,...]
