@@ -28,9 +28,18 @@
 
 # Meeting planning
 
-- When do we meet
+- When do we meet?
+- 	http://whenisgood.net/c4da842
 
 # Agenda
+
+# System
+
+- What system do we want to develop?
+- Simple?
+- Time estimate?
+- Feasibility?
+
 # Features
 
 - What Features do we want?
