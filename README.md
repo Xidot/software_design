@@ -1,5 +1,12 @@
 # Quick How To:
 
+#### Prerequisites:
+
+- Install [maven](https://maven.apache.org/)
+- Make sure you are using at least **JDK 1.8**
+
+#### Then:
+
 - **Compile:** `mvn compile`
 - **Package:** `mvn package`
 - **Run:** `java -jar target/*whatever*.jar` or `mvn exec:java` or `mvn exec:exec` (google the difference yourself)
