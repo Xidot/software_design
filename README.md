@@ -11,6 +11,7 @@
 - "javac" to compile programs
 - "java" to run [must be in the same directory as source]
 - "java main sun" for a nice easter egg :D
+- or just run the main class from the IDE
 
 # To Do
 
@@ -30,6 +31,7 @@
 
 - When do we meet?
 - 	http://whenisgood.net/c4da842
+- can also meet at the working groups
 
 # Agenda
 
