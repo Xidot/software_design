@@ -29,3 +29,12 @@
 # Meeting planning
 
 - When do we meet
+
+# Agenda
+# Features
+
+- What Features do we want?
+
+# Qualities
+
+- What Qualities doe we want?
