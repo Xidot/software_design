@@ -3,7 +3,7 @@
 - Cercel Bogdan-Petre
 - Sofia Konovalova
 - Claudia Grigoras
-- Wilkens de Boer
+- Wilkin van Roosmalen
 - Koen Nikolas William van de Burg
 
 # CMD compiler
