@@ -1,3 +1,10 @@
+# Quick How To:
+
+- **Compile:** `mvn compile`
+- **Package:** `mvn package`
+- **Run:** `java -jar target/*whatever*.jar` or `mvn exec:java` or `mvn exec:exec` (google the difference yourself)
+
+
 # Collaborators
 
 - Cercel Bogdan-Petre
