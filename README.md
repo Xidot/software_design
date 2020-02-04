@@ -33,17 +33,17 @@
 
 # Agenda
 
-# System
+## System
 
 - What system do we want to develop?
 - Simple?
 - Time estimate?
 - Feasibility?
 
-# Features
+## Features
 
 - What Features do we want? [8,...]
 
-# Qualities
+## Qualities
 
 - What Qualities doe we want? (5,...]
