@@ -1,3 +1,11 @@
-#source/praise-100.txt
-source/praise-200.txt
-docs/*
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
