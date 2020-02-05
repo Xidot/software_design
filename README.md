@@ -29,7 +29,7 @@
 
 # To Do
 
-- Assignment 1 (Deadline??)
+- Assignment 1 (February 17th)
 
 - Assignment 2
 
