@@ -17,6 +17,7 @@
     <version>0.1</version>
     
     <build>
+        <directory>build</directory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
