@@ -6,11 +6,13 @@
 - Make sure you are using at least **JDK 1.8**
 
 #### Then:
-
+Use maven to compile/package/run etc:
+- **Clean build and run:** `mvn clean package exec:java`
 - **Compile:** `mvn compile`
 - **Package:** `mvn package`
-- **Run:** `java -jar target/*whatever*.jar` or `mvn exec:java` or `mvn exec:exec` (google the difference yourself)
+- **Run:** `mvn exec:java`
 
+You can also use `java` commands to compile but why would you.
 
 # Collaborators
 
